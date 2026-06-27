@@ -18,3 +18,11 @@ npm install event-emitter
 ## License
 
 MIT
+
+
+## Usage
+
+```typescript
+import { } from 'event-emitter';
+// See API section for available functions
+```
